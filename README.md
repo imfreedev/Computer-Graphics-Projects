@@ -1,6 +1,5 @@
 # Computer-Graphics-Projects
 
-# Computer Graphics Projects
 
 **These algorithms are developed using Yocto/GL**
 
