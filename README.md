@@ -1,4 +1,4 @@
-# Computer-Graphics-Projects
+# Computer_Graphics_course_projects
 
 
 Computer Graphics small projects built during the course of Prof. Fabio Pellacini.
